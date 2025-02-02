@@ -1,3 +1,7 @@
+:root{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
 img{border-radius: 16px;}
 
 body{
@@ -14,6 +18,13 @@ body{
         background-color: #F0E8C2;
         border-radius: 24px;
         margin: 48px auto;
+        
+        
+    }
+    }
+    h1{color: #291B1A;}
+    h2{color:#291B1A ;}
+    p{color: #573A37;}
 
-    }
-    }
+    footer{text-align: center;
+    color: #F0E8C2;}
